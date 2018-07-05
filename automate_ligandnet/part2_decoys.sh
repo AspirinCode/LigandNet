@@ -1,9 +1,0 @@
-python automate_models.py Cathepsin_K
-python automate_models.py Cathepsin_B
-python automate_models.py Cathepsin_S
-python automate_models.py Cathepsin_L1
-python automate_models.py Caspase_3
-python automate_models.py Caspase_1
-python automate_models.py Cholesteryl_ester_transfer_protein
-python automate_models.py Cathespin_D
-python automate_models.py Carnitine_O_palmitoyltransferase_1__liver_isoform
